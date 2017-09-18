@@ -8,6 +8,7 @@ public class JavaProgram
         char choice, ch;
         Scanner scan = new Scanner(System.in);
 		
+	System.out.println("Program edited");
         do
         {
             System.out.print("1. Addition\n");
